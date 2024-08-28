@@ -1,0 +1,38 @@
+.class_2{
+    font-size:20px
+  }
+  body{background-image:url(https://static.vecteezy.com/system/resources/thumbnails/002/275/482/small/hand-drawn-yellow-orange-and-blue-striped-beach-ball-free-vector.jpg) ;
+     background-repeat:no-repeat;
+    background-attachment:fixed ;
+  background-position:right top ;}
+  .grad1{
+    background:linear-gradient(to bottom right,red,orange,yellow);
+    height: 200px;
+  }
+  #radial{
+    height: 200px;
+    background:radial-gradient(circle,red 5%,blue 10%,white 50%)
+  }
+  .class_4{
+    text-decoration: underline overline;
+    text-transform: capitalize;
+    /* text-shadow: 5px 5px 2px black; */
+    box-shadow: 5px 5px 10px black;
+    text-align: center  ;
+    font-family: Papyrus,fantasy;
+  }
+.class3{
+  text-decoration: underline overline;
+  text-transform: uppercase;
+  text-shadow: 5px 2px 5px rgb(46, 126, 14);
+}
+input[type="text"]{
+  background-color:lightblue;
+}
+input{background-color: skyblue;}
+ol>li {background-color: aqua;}
+ul>li{text-shadow: 5px 10px 5px black;}
+section+p{background-color: aqua;}
+a:hover{background-color: red;}
+li:nth-child(2){text-shadow: 2px 2px 2px black;}
+

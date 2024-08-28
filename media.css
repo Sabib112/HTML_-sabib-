@@ -1,0 +1,11 @@
+input[type="text"] {
+    border:2px rgb(0, 191, 255);
+  }
+  a:hover{background-color: red;}
+  li:nth-child(2){
+    background-color: aquamarine;
+  }
+  div:not(.class1) {
+    border: 2px dashed red;
+  }
+  
