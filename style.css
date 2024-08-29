@@ -35,4 +35,17 @@ ul>li{text-shadow: 5px 10px 5px black;}
 section+p{background-color: aqua;}
 a:hover{background-color: red;}
 li:nth-child(2){text-shadow: 2px 2px 2px black;}
-
+.box{ border: 5px solid black;
+margin-left: 10px;
+margin-right: 10px;
+padding:10px}
+.box2{
+  border: 5px solid black;
+  margin: 30px 0px 30px 0px}
+.float-test{ 
+  background-color: lightcyan;
+border:5px solid crimson;
+margin:10px;
+width: 100px; 
+float: ;
+}
