@@ -47,7 +47,6 @@ ul.sticky-nav li{
   display: inline ; 
   text-shadow: none; 
   background-color:  rgb(0, 255, 255); 
-
 }
 section+p{background-color: aqua;}
 a:hover{background-color: red;}
@@ -69,4 +68,3 @@ float: ;
 .tb{background-color:lightcyan; 
 position: sticky;
 }
-ul
