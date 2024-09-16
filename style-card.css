@@ -1,4 +1,7 @@
 .card{
+    padding: 10px;
+}
+.card-body{
     background-color: white;
-    margin: 10px;
+    
 }
