@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+    <div class="navbar navbar-inverse">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="#" class="navbar-brand">Sabib</a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="#" >home</a></li>
+            <li><a href="#">contact</a></li>
+            <li><a href="#">about us</a></li>
+            <li><a href="#">portfolio</a></li>
+        </ul>
+    </div>
+    </div>   
+    <div class="container-fluid">
+        <a></a>
+    </div> 
+    <p>The name of our country is Bangladesh.<br> It became independent in 1971.<br> Dhaka is the capital of Bangladesh. It is a small country. It has a land area of 147570 square km.<br> There are 17 crore people t in the country.<br> Bangladesh is mainly an agricultural country. Rice, jute, sugar cane and tea are the main crops of Bangladesh. Many kinds of fruits also grown here. Jack fruit, mangoes, bananas, pine apples, guavas and water melons are the most common fruit in Bangladesh. There are also many rivers in Bangladesh. The Padma, the Meghna, the Jamuna, the Karnaphuly are the main rivers in Bangladesh. There are many varities of fishes in these rivers. Bangladesh has many interesting places. The Sundarbans, Rangamati and Cox's Bazar are very attractive. Cox's Bazar is the longest sea beach in the world. It is about 120 k.m long. The Royal Bengal Tiger lives in the Sundarbans. Many people visit these interesting places every year. Bangladesh is a peaceful country. People from different communities live here in peace. I love my country very much.</p>
+    <div class="container">
+        <div class="progress">
+          <div class="progress-bar" style="width: 70%;">70%</div>
+        </div>
+      </div>
+      <div class="container">
+        <h2>spinner</h2>
+        <div class="spinner-border">   
+        </div>
+      </div>
+      <div class="container">
+        <h2>pagination</h2>
+        <ul class="pagination">
+            <li class="page-item">
+              <a href="#" class="page-link">Previous</a>
+            </li>
+            <li class="page-item">
+              <a href="#" class="page-link">1</a>
+            </li>
+            <li class="page-item">
+              <a href="#" class="page-link">2</a>
+            </li>
+            <li class="page-item">
+              <a href="#" class="page-link">3</a>
+            </li>
+              <a href="#" class="page-link">4</a>
+            </li>
+            <li class="page-item">
+              <a href="#" class="page-link">next</a>
+            </li>
+        </ul>
+      </div>
+    </body>
+</html>
